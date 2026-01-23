@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "david",
+    "Age": 35,
+    "Categoria": "Bienvenido Senior"
+  },
+  {
+    "Name": "marina",
+    "Age": 35,
+    "Categoria": "Bienvenido Senior"
+  },
+  {
+    "Name": "pepito",
+    "Age": 14,
+    "Categoria": "acceso denegado, eres menor de edad"
+  }
+]
